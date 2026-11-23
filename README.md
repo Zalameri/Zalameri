@@ -23,7 +23,7 @@ It validates input and has `pytest` tests.
 
 ## Currently
 
-Improving these projects: more tests, accessibility and a browser interface for StudyBuddy. I only publish
+Planned next: more tests for my projects and a browser interface for StudyBuddy (not started yet). I only publish
 work that runs, and I label unfinished work as in progress.
 
 Some of my repositories are university coursework; they are not part of this portfolio.
